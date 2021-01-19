@@ -52,7 +52,7 @@ Career wise I'm a certified Quality Assurance with developer background with exp
 ---
 
 
-[website]: https://hamzaconnection.github.io/CV-Resume-Nine/
+[website]: https://hamzaconnection.github.io
 [youtube]: https://www.youtube.com/channel/UCCEm-IFh1guH7dXvdTK7OZA
 [instagram]: https://www.instagram.com/hamzaconnection/
 [linkedin]: https://www.linkedin.com/in/hamzalaroussi/
