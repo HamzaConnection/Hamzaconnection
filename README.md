@@ -21,6 +21,7 @@ I also founded my own company where I had 2 people working with me and that taug
 Career wise I'm a certified Quality Assurance with developer background with experience on various projects not limited to ECCO, Vestas, DSV, Oister, Homebase and Saudi Aramco
 
 ### Resume ➡️ [website] 💻
+### For Dansk CV ➡️ [website] 💻
 
 
 
@@ -53,6 +54,7 @@ Career wise I'm a certified Quality Assurance with developer background with exp
 
 
 [website]: https://hamzaconnection.github.io
+[websiteDK]: https://hamzaconnection.github.io/CV-Resume-DK
 [youtube]: https://www.youtube.com/channel/UCCEm-IFh1guH7dXvdTK7OZA
 [instagram]: https://www.instagram.com/hamzaconnection/
 [linkedin]: https://www.linkedin.com/in/hamzalaroussi/
