@@ -12,11 +12,14 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Hamza [website] 👋
 
-Certified Quality Assurance with developer background and experience on various projects not limited to ECCO, Vestas, DSV, Oister, Homebase and Saudi Aramco
+I love frontend development as you can se on my various projects here on github. 
 
 I'm a super passionate person in general and always curious to learn something new especially if it's' frontend, automated testing, fitness, business, or self-improvement!
 
 I also founded my own company where I had 2 people working with me and that taught me so much about life and business. 
+
+Career wise I'm a certified Quality Assurance with developer background with experience on various projects not limited to ECCO, Vestas, DSV, Oister, Homebase and Saudi Aramco
+
 
 
 
