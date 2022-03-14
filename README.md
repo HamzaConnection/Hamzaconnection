@@ -20,8 +20,8 @@ I also founded my own company where I had 2 people working with me and that taug
 
 Career wise I'm a certified Quality Assurance with developer background with experience on various projects not limited to ECCO, Vestas, DSV, Oister, Homebase and Saudi Aramco
 
-### Resume ➡️ [website] 💻
-### For Dansk CV ➡️ [websiteDK] 💻
+### Resume ➡️ [website] OUTDATED💻
+### For Dansk CV ➡️ [websiteDK] OUTDATED 💻
 
 
 
