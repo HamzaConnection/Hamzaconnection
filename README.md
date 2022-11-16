@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Hamza 👋
 
-I love frontend development as you can se on my various projects here on github. 
+I love frontend development as you can see on my various projects here on github. 
 
 I'm a super passionate person in general and always curious to learn something new especially if it's' frontend, automated testing, fitness, business, or self-improvement!
 
