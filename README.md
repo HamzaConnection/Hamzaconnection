@@ -18,12 +18,9 @@ I'm a super passionate person in general and always curious to learn something n
 
 I also founded my own company where I had 2 people working with me and that taught me so much about life and business. 
 
-Career wise I'm a frontend end developer currently at a frontend lead role. I'm also a certified Quality Assurance and I have also done backend development. I  with experience on various projects not limited to ECCO, Vestas, DSV, Oister, Homebase and Saudi Aramco
+Career wise I have more than 6 years of it experience. I specialize in frontend end developer currently at a frontend lead role. I'm also a certified Quality Assurance and I have also done backend development in the past. I have worked with serveral big names such as and not limited to ECCO, Vestas, DSV, Oister, Homebase and Saudi Aramco. 
 
-### Resume ➡️ [website] OUTDATED💻
-### For Dansk CV ➡️ [websiteDK] OUTDATED 💻
-
-
+For more info checkout my linked down below
 
 ### Connect with me:
 
@@ -31,6 +28,11 @@ Career wise I'm a frontend end developer currently at a frontend lead role. I'm 
 [<img align="left" alt="HamzaConneciton | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="HamzaConneciton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HamzaConneciton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+### Resume ➡️ [website] OUTDATED💻
+### For Dansk CV ➡️ [websiteDK] OUTDATED 💻
+
 
 <br />
 
