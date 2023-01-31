@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 
 I love frontend development as you can see on my various projects here on github. 
 
-I'm a super passionate person in general and always curious to learn something new especially if it's' frontend, automated testing, fitness, business, or self-improvement!
+I'm a super passionate person in general and always curious to learn something new especially if it's' frontend, fitness, business, or self-improvement!
 
 I also founded my own company where I had 2 people working with me and that taught me so much about life and business. 
 
-Career wise I'm a certified Quality Assurance with developer background with experience on various projects not limited to ECCO, Vestas, DSV, Oister, Homebase and Saudi Aramco
+Career wise I'm a frontend end developer currently at a frontend lead role. I'm also a certified Quality Assurance and I have also done backend development. I  with experience on various projects not limited to ECCO, Vestas, DSV, Oister, Homebase and Saudi Aramco
 
 ### Resume ➡️ [website] OUTDATED💻
 ### For Dansk CV ➡️ [websiteDK] OUTDATED 💻
