@@ -20,8 +20,7 @@ I also founded my own company where I had 2 people working with me and that taug
 
 Career wise I have more than 6 years of it experience. I specialize in frontend end developer currently at a frontend lead role. I'm also a certified Quality Assurance and I have also done backend development in the past. I have worked with serveral big names such as and not limited to ECCO, Vestas, DSV, Oister, Homebase and Saudi Aramco. 
 
-For more info checkout my linked down below
-
+For more info
 ### Connect with me:
 
 [<img align="left" alt="HamzaConneciton" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
