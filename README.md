@@ -30,7 +30,7 @@ Career wise I have more than 6 years of it experience. I specialize in frontend 
 <br />
 
 ### Resume ➡️ [website] OUTDATED💻
-### For Dansk CV ➡️ [websiteDK] OUTDATED 💻
+### For Dansk CV ➡️ [websiteDK] 💻
 
 
 <br />
